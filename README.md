@@ -26,6 +26,8 @@ Recall
 F1-Score
 Confusion Matrix
 
+This project was developed as part of a team-based university project.
+
 Author
 
 Asma Albeshri
